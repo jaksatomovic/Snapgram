@@ -6,9 +6,13 @@ Instagram Clone
 
  - Swift 3
  - Parse SDK
+ 
  – edit profile
+ 
  – search users and show popular posts
+ 
  – feed page, likes, double tap like
+ 
  – comments, hashtags, mentions
  – notifications, animations
  – custom photo upload and image picking
