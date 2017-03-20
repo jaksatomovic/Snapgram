@@ -21,7 +21,7 @@ Instagram Clone
 # Screenshots
 
 ![](https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b1bc5b8e.png)
-<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b3160408.png" height=480"/>
+<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b3160408.png" height=480">
 <img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b45444b4.png?raw=true" height=480">
 <img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b62b29d6.png?raw=true" height=480">
 <img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b8f1d7bc.png?raw=true" height=480">
