@@ -20,11 +20,11 @@ Instagram Clone
 
 # Screenshots
 
-![](https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b1bc5b8e.png | width=100)
-<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b3160408.png" height=480">
-<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b45444b4.png?raw=true" height=480">
-<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b62b29d6.png?raw=true" height=480">
-<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b8f1d7bc.png?raw=true" height=480">
-<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b9ac320b.png?raw=true" height=480">
-<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406bc0ab882.png?raw=true" height=480">
-<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406c0e16b9f.png?raw=true" height=480">
+<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b1bc5b8e.png" height="480">
+<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b3160408.png" height="480">
+<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b45444b4.png?raw=true" height="480">
+<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b62b29d6.png?raw=true" height="480">
+<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b8f1d7bc.png?raw=true" height="480">
+<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b9ac320b.png?raw=true" height="480">
+<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406bc0ab882.png?raw=true" height="480">
+<img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406c0e16b9f.png?raw=true" height="480">
