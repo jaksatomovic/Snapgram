@@ -1,7 +1,5 @@
 <img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/featured_image5841c78788b98.jpg">
-# Download from Dropbox
-link:
-https://www.dropbox.com/sh/56q3op2f2d6kjr4/AACf9AV9hmb0j1Xzr5HlReLwa?dl=0
+
 # Snapgram
 
 Instagram Clone
@@ -19,6 +17,10 @@ Instagram Clone
  – notifications, animations
  – custom photo upload and image picking
  – fully commented
+# Download from Dropbox
+
+link:
+https://www.dropbox.com/sh/56q3op2f2d6kjr4/AACf9AV9hmb0j1Xzr5HlReLwa?dl=0
 
 # Screenshots
 
