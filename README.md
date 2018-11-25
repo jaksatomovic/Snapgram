@@ -32,3 +32,19 @@ https://www.dropbox.com/sh/56q3op2f2d6kjr4/AACf9AV9hmb0j1Xzr5HlReLwa?dl=0
 <img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406b9ac320b.png?raw=true" height="480">
 <img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406bc0ab882.png?raw=true" height="480">
 <img src="https://github.com/jaksatomovic/Snapgram/blob/master/img/screenshot58406c0e16b9f.png?raw=true" height="480">
+
+
+<h2>Donations</h2>
+
+If you think that any information you obtained here is worth of some money and are willing to pay for it, feel free to send any amount through paypal.
+
+<table>
+<tr><th>Paypal</th></tr>
+<tbody>
+<tr>
+<td><a href="https://www.paypal.me/jaksatomovic" style="text-align:center;display:block">
+<img src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_cc_147x47.png" alt="Buy me a beer" />
+</a></td>
+</tr>
+</tbody>
+</table>
